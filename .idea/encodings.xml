@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-activiti" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/liuyjy-api-mq-rabbitmq_producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mybatis-plus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-redisson" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liuyjy-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

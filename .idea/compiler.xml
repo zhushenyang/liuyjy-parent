@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafka-consunmer" />
+        <module name="kafka-producer" />
+        <module name="liuyjy-api" />
+        <module name="liuyjy-api-activiti" />
+        <module name="liuyjy-api-admin" />
+        <module name="liuyjy-api-demo" />
+        <module name="liuyjy-api-es" />
+        <module name="liuyjy-api-feign" />
+        <module name="liuyjy-api-mongodb" />
+        <module name="liuyjy-api-mq" />
+        <module name="liuyjy-api-mq-rabbitmq-consumer" />
+        <module name="liuyjy-api-mq-rabbitmq_producer" />
+        <module name="liuyjy-api-mybatis-plus" />
+        <module name="liuyjy-api-redisson" />
+        <module name="liuyjy-api-ribbon" />
+        <module name="liuyjy-api-service" />
+        <module name="liuyjy-api-springboot" />
+        <module name="liuyjy-api-user" />
+        <module name="liuyjy-cloud-admin" />
+        <module name="liuyjy-cloud-config" />
+        <module name="liuyjy-cloud-eureka" />
+        <module name="liuyjy-cloud-gateway" />
+        <module name="liuyjy-cloud-turbine" />
+        <module name="liuyjy-common" />
+        <module name="liuyjy-dubbo" />
+        <module name="liuyjy-entity" />
+        <module name="rabbitmq-consumer" />
+        <module name="rabbitmq-producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="kafka-consunmer" target="1.8" />
+      <module name="kafka-producer" target="1.8" />
+      <module name="liuyjy-api" target="1.8" />
+      <module name="liuyjy-api-activiti" target="1.8" />
+      <module name="liuyjy-api-admin" target="1.8" />
+      <module name="liuyjy-api-demo" target="1.8" />
+      <module name="liuyjy-api-es" target="1.8" />
+      <module name="liuyjy-api-es2" target="1.8" />
+      <module name="liuyjy-api-feign" target="1.8" />
+      <module name="liuyjy-api-mongodb" target="1.8" />
+      <module name="liuyjy-api-mq" target="1.8" />
+      <module name="liuyjy-api-mq-rabbitmq-consumer" target="1.8" />
+      <module name="liuyjy-api-mq-rabbitmq_producer" target="1.8" />
+      <module name="liuyjy-api-mybatis-plus" target="1.8" />
+      <module name="liuyjy-api-redisson" target="1.8" />
+      <module name="liuyjy-api-ribbon" target="1.8" />
+      <module name="liuyjy-api-service" target="1.8" />
+      <module name="liuyjy-api-springboot" target="1.8" />
+      <module name="liuyjy-api-user" target="1.8" />
+      <module name="liuyjy-cloud" target="1.8" />
+      <module name="liuyjy-cloud-admin" target="1.8" />
+      <module name="liuyjy-cloud-config" target="1.8" />
+      <module name="liuyjy-cloud-eureka" target="1.8" />
+      <module name="liuyjy-cloud-gateway" target="1.8" />
+      <module name="liuyjy-cloud-turbine" target="1.8" />
+      <module name="liuyjy-common" target="1.8" />
+      <module name="liuyjy-dubbo" target="1.8" />
+      <module name="liuyjy-entity" target="1.8" />
+      <module name="liuyjy-parent" target="1.8" />
+      <module name="liuyjy-web" target="1.8" />
+      <module name="rabbitmq-consumer" target="1.8" />
+      <module name="rabbitmq-producer" target="1.8" />
+      <module name="springboot-es" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="kafka-consunmer" options="" />
+      <module name="kafka-producer" options="" />
+      <module name="liuyjy-api-activiti" options="" />
+      <module name="liuyjy-api-admin" options="" />
+      <module name="liuyjy-api-demo" options="" />
+      <module name="liuyjy-api-es" options="" />
+      <module name="liuyjy-api-feign" options="" />
+      <module name="liuyjy-api-mongodb" options="" />
+      <module name="liuyjy-api-mq" options="" />
+      <module name="liuyjy-api-mq-rabbitmq-consumer" options="-parameters" />
+      <module name="liuyjy-api-mq-rabbitmq_producer" options="-parameters" />
+      <module name="liuyjy-api-mybatis-plus" options="" />
+      <module name="liuyjy-api-redisson" options="" />
+      <module name="liuyjy-api-ribbon" options="" />
+      <module name="liuyjy-api-service" options="" />
+      <module name="liuyjy-api-springboot" options="" />
+      <module name="liuyjy-api-user" options="" />
+      <module name="liuyjy-cloud-admin" options="" />
+      <module name="liuyjy-cloud-config" options="" />
+      <module name="liuyjy-cloud-eureka" options="" />
+      <module name="liuyjy-cloud-gateway" options="" />
+      <module name="liuyjy-cloud-turbine" options="" />
+      <module name="liuyjy-common" options="" />
+      <module name="liuyjy-dubbo" options="" />
+      <module name="liuyjy-entity" options="" />
+      <module name="rabbitmq-consumer" options="" />
+      <module name="rabbitmq-producer" options="" />
+    </option>
+  </component>
+</project>

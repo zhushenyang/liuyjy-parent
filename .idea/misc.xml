@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-web/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-common/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-user/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-service/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-es/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-redisson/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-activiti/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/liuyjy-api-mq-rabbitmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e573a06-596d-4db5-b0cd-44ce8c9fd793" name="Default Changelist" comment="创建项目" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-cloud/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-web/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-common/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-entity/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-config/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-admin/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-user/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-feign/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-service/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-turbine/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-cloud/demo/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/springboot-es/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/demo/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-es/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-es2/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mongodb/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-redisson/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-activiti/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mybatis-plus/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/liuyjy-api-mq-rabbitmq_producer/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/liuyjy-api-mq-rabbitmq-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/target/" />
+    <ignored path="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1087166427">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ft" value="18" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="VTL" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="md" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="Markdown" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/KafkaProducerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/src/main/java/com/example/kafka/KafkaConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/src/main/java/com/example/kafka/KafkaConsunmerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/HELP.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="95">
+                <caret line="5" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/test/java/com/example/kafka/KafkaProducerApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/KafkaController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/HELP.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-config/src/main/java/com/example/cloudconfig/LiuyjyCloudConfigApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-config/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="BpmnFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getLock</find>
+      <find>ofEpochSecond</find>
+      <find>com.sxw.entity</find>
+      <find>order-queue</find>
+      <find>addMinutes</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mybatis-plus/src/main/java/com/example/LiuyjyApiMybatisPlusApplication.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mybatis-plus/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mybatis-plus/src/main/java/com/example/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/liuyjy-common/src/main/java/com/example/liuyjycommon/util/BigDecimalUtil.java" />
+        <option value="$PROJECT_DIR$/liuyjy-common/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-common/src/main/java/com/example/liuyjycommon/util/DesUtil.java" />
+        <option value="$PROJECT_DIR$/liuyjy-common/src/main/java/com/example/liuyjycommon/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/liuyjy-common/src/main/java/com/example/liuyjycommon/util/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/liuyjy-common/src/main/java/com/example/liuyjycommon/util/Des.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/config/TaskExecutorConfig.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mongodb/src/main/java/com/example/apimongodb/dao/userDao.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/src/main/java/com/example/apispringboot/controller/SpringBootController.java" />
+        <option value="$PROJECT_DIR$/liuyjy-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/liuyjy-api-mq-rabbitmq-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/liuyjy-api-mq-rabbitmq_producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/HELP.md" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/HELP.md" />
+        <option value="$PROJECT_DIR$/liuyjy-entity/src/main/java/com/example/liuyjyentity/mq/BrokerMessageLog.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/task/TaskSchedulerConfig.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/database/config/MetaObjectHandlerConfig.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/database/DruidDataSourceSettings.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/database/MybatisMapperScanerConfig.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/mapper/BrokerMessageLogMapper.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/WebLogAspect.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/utils/FastJsonConvertUtil.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/database/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/resources/mapper/BrokerMessageLogMapper.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/resources/mapper/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/test/java/com/example/RabbitmqProducerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/database/MetaObjectHandlerConfig.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/database/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/task/RetryMessageTasker.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/producer/OrderSender.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/producer/RabbitOrderSender.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/src/main/java/com/example/consumer/OrderReceiver.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/SpringbootKafkaApplication.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/test/java/com/example/kafka/KafkaProducerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/KafkaController.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/KafkaProducer.java" />
+        <option value="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/src/main/java/com/example/kafka/KafkaConsumer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kafka-producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kafka-producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="267" />
+    <option name="y" value="80" />
+    <option name="width" value="1184" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudconfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-cloud-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuyjy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuyjy-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="liuyjy-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567689215994" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.29819563" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="F:\Program Files\JetBrains\IntelliJ IDEA 2018.2.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.kafka" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HART\liuyjy-parent\liuyjy-api\liuyjy-api-mq\kafka-producer\src\main\java\com\example\kafka" />
+      <recent name="E:\HART\liuyjy-parent\liuyjy-api\liuyjy-api-mq\kafka-producer\src\main\resources" />
+      <recent name="E:\HART\liuyjy-parent\liuyjy-api\liuyjy-api-mq\kafka-consunmer\src\main\resources" />
+      <recent name="E:\HART\liuyjy-parent\liuyjy-api\liuyjy-api-mq\rabbitmq-producer\src\main\resources\mapper" />
+      <recent name="E:\HART\liuyjy-parent\liuyjy-api\liuyjy-api-mq\rabbitmq-producer\src\main\java\com\example\config\database" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.config" />
+      <recent name="com.example.consumer" />
+      <recent name="com.example.liuyjycommon.util" />
+      <recent name="com.example.controller" />
+      <recent name="com.example.enums" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\HART\liuyjy-parent\liuyjy-api\liuyjy-api-springboot\src\main\resources" />
+      <recent name="D:\items\liuyjy-parent\liuyjy-api\liuyjy-api-activiti\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KafkaConsunmer">
+    <configuration name="DateUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.liuyjycommon.util.DateUtil" />
+      <module name="liuyjy-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.liuyjycommon.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.apispringboot.controller.SpringBootController" />
+      <module name="liuyjy-api-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.apispringboot.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaProducerApplicationTests.kafkaSend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.example.kafka.KafkaProducerApplicationTests" />
+      <option name="METHOD_NAME" value="kafkaSend" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqProducerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.RabbitmqProducerApplicationTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqProducerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.RabbitmqProducerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiActiviti" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-activiti" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apiactiviti.LiuyjyApiActivitiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.LiuyjyApiDemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiFeign" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apifeign.LiuyjyApiFeignApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiRibbon" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apiribbon.LiuyjyApiRibbonApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiService1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apiservice.LiuyjyApiServiceApplication" />
+      <option name="ACTIVE_PROFILES" value="dev1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiService2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apiservice.LiuyjyApiServiceApplication" />
+      <option name="ACTIVE_PROFILES" value="dev2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Config" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-cloud-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudconfig.LiuyjyCloudConfigApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudeureka.LiuyjyCloudEurekaApplication" />
+      <option name="ACTIVE_PROFILES" value="peer1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudeureka.LiuyjyCloudEurekaApplication" />
+      <option name="ACTIVE_PROFILES" value="peer2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudeureka.LiuyjyCloudEurekaApplication" />
+      <option name="ACTIVE_PROFILES" value="peer3" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-cloud-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudgateway.LiuyjyCloudGatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaConsunmer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-consunmer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.kafka.KafkaConsunmerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaProducer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.kafka.KafkaProducerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiuyjyApiEsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-es" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apies.LiuyjyApiEsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiuyjyApiMybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-mybatis-plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.LiuyjyApiMybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiuyjyApiSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apispringboot.LiuyjyApiSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiuyjyDubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-dubbo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.LiuyjyDubboApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mongodb" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apimongodb.LiuyjyApiMongodbApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqConsumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.RabbitmqConsumerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqProducer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.RabbitmqProducerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redisson" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-redisson" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apiredisson.LiuyjyApiRedissonApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootAdmin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-cloud-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudadmin.LiuyjyCloudAdminApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Turbine" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-cloud-turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudturbine.LiuyjyCloudTurbineApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apiAdmin1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apiadmin.LiuyjyApiAdminApplication" />
+      <option name="ACTIVE_PROFILES" value="test1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apiAdmin2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apiadmin.LiuyjyApiAdminApplication" />
+      <option name="ACTIVE_PROFILES" value="test2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apiUser1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apiuser.LiuyjyApiUserApplication" />
+      <option name="ACTIVE_PROFILES" value="test1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apiUser2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liuyjy-api-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apiuser.LiuyjyApiUserApplication" />
+      <option name="ACTIVE_PROFILES" value="test2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Eureka1" />
+      <item itemvalue="Spring Boot.Eureka2" />
+      <item itemvalue="Spring Boot.Eureka3" />
+      <item itemvalue="Spring Boot.Config" />
+      <item itemvalue="Spring Boot.Gateway" />
+      <item itemvalue="Spring Boot.SpringBootAdmin" />
+      <item itemvalue="Spring Boot.apiAdmin2" />
+      <item itemvalue="Spring Boot.apiUser1" />
+      <item itemvalue="Spring Boot.apiUser2" />
+      <item itemvalue="Spring Boot.apiAdmin1" />
+      <item itemvalue="Spring Boot.ApiFeign" />
+      <item itemvalue="Spring Boot.ApiRibbon" />
+      <item itemvalue="Spring Boot.ApiService1" />
+      <item itemvalue="Spring Boot.ApiService2" />
+      <item itemvalue="Spring Boot.Turbine" />
+      <item itemvalue="Spring Boot.ApiDemo" />
+      <item itemvalue="Spring Boot.LiuyjyApiEsApplication" />
+      <item itemvalue="Spring Boot.Mongodb" />
+      <item itemvalue="Spring Boot.Redisson" />
+      <item itemvalue="Spring Boot.LiuyjyApiSpringbootApplication" />
+      <item itemvalue="Spring Boot.ApiActiviti" />
+      <item itemvalue="Spring Boot.LiuyjyApiMybatisPlusApplication" />
+      <item itemvalue="Spring Boot.LiuyjyDubboApplication" />
+      <item itemvalue="Spring Boot.RabbitmqProducer" />
+      <item itemvalue="Spring Boot.RabbitmqConsumer" />
+      <item itemvalue="Spring Boot.KafkaConsunmer" />
+      <item itemvalue="Spring Boot.KafkaProducer" />
+      <item itemvalue="Application.DateUtil" />
+      <item itemvalue="Application.SpringBootController" />
+      <item itemvalue="JUnit.RabbitmqProducerApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.RabbitmqProducerApplicationTests" />
+      <item itemvalue="JUnit.KafkaProducerApplicationTests.kafkaSend" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KafkaProducerApplicationTests.kafkaSend" />
+        <item itemvalue="JUnit.RabbitmqProducerApplicationTests" />
+        <item itemvalue="JUnit.RabbitmqProducerApplicationTests.contextLoads" />
+        <item itemvalue="Application.SpringBootController" />
+        <item itemvalue="Application.DateUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e573a06-596d-4db5-b0cd-44ce8c9fd793" name="Default Changelist" comment="" />
+      <created>1556157012847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556157012847</updated>
+      <workItem from="1556157021220" duration="19821000" />
+      <workItem from="1556179301582" duration="9394000" />
+      <workItem from="1556245601866" duration="29403000" />
+      <workItem from="1556418690680" duration="20623000" />
+      <workItem from="1556514011224" duration="14577000" />
+      <workItem from="1556591109152" duration="18573000" />
+      <workItem from="1556616338014" duration="3155000" />
+      <workItem from="1556856191237" duration="1178000" />
+      <workItem from="1557022739281" duration="41208000" />
+      <workItem from="1557206400101" duration="1273000" />
+      <workItem from="1557211070617" duration="17593000" />
+      <workItem from="1557279130367" duration="14349000" />
+      <workItem from="1557365769048" duration="4164000" />
+      <workItem from="1557454766889" duration="4541000" />
+      <workItem from="1557711143322" duration="1359000" />
+      <workItem from="1557716024949" duration="2877000" />
+      <workItem from="1557727641096" duration="5000" />
+      <workItem from="1557727719211" duration="9471000" />
+      <workItem from="1557744508864" duration="1482000" />
+      <workItem from="1557798067654" duration="1199000" />
+      <workItem from="1557884216173" duration="2304000" />
+      <workItem from="1557972181142" duration="584000" />
+      <workItem from="1558061611571" duration="593000" />
+      <workItem from="1558144865912" duration="1933000" />
+      <workItem from="1558316577967" duration="530000" />
+      <workItem from="1558421552046" duration="972000" />
+      <workItem from="1558749171403" duration="564000" />
+      <workItem from="1562660951843" duration="2264000" />
+      <workItem from="1562721224334" duration="767000" />
+      <workItem from="1562723213820" duration="3570000" />
+      <workItem from="1562758327666" duration="593000" />
+      <workItem from="1562806864684" duration="1216000" />
+      <workItem from="1562893714536" duration="2535000" />
+      <workItem from="1562980428061" duration="4783000" />
+      <workItem from="1563152786874" duration="1257000" />
+      <workItem from="1563239199623" duration="1395000" />
+      <workItem from="1563325643119" duration="599000" />
+      <workItem from="1563411852077" duration="3169000" />
+      <workItem from="1563498489759" duration="742000" />
+      <workItem from="1563499482843" duration="597000" />
+      <workItem from="1563544204948" duration="599000" />
+      <workItem from="1563584583032" duration="1103000" />
+      <workItem from="1563757609966" duration="598000" />
+      <workItem from="1563844183544" duration="3575000" />
+      <workItem from="1563892775445" duration="594000" />
+      <workItem from="1563930313188" duration="6647000" />
+      <workItem from="1564016941401" duration="597000" />
+      <workItem from="1564103502480" duration="596000" />
+      <workItem from="1564190032045" duration="598000" />
+      <workItem from="1564362861469" duration="1196000" />
+      <workItem from="1564449090427" duration="598000" />
+      <workItem from="1564470473294" duration="486000" />
+      <workItem from="1564536058157" duration="1054000" />
+      <workItem from="1564538486027" duration="4456000" />
+      <workItem from="1564621218888" duration="1812000" />
+      <workItem from="1564708134707" duration="3391000" />
+      <workItem from="1564967341778" duration="635000" />
+      <workItem from="1565053924048" duration="1235000" />
+      <workItem from="1565226374271" duration="596000" />
+      <workItem from="1565312799916" duration="598000" />
+      <workItem from="1565573389004" duration="5000" />
+      <workItem from="1565924356912" duration="1615000" />
+      <workItem from="1566201522193" duration="4650000" />
+      <workItem from="1566444196022" duration="16459000" />
+      <workItem from="1566523452257" duration="10004000" />
+      <workItem from="1566781574806" duration="14096000" />
+      <workItem from="1566868342470" duration="9781000" />
+      <workItem from="1566954750927" duration="6653000" />
+      <workItem from="1566981804794" duration="317000" />
+      <workItem from="1566982174019" duration="154000" />
+      <workItem from="1566982389598" duration="1220000" />
+      <workItem from="1566984078173" duration="650000" />
+      <workItem from="1567041163108" duration="695000" />
+      <workItem from="1567042348106" duration="2339000" />
+      <workItem from="1567045689577" duration="5518000" />
+      <workItem from="1567062781119" duration="17215000" />
+      <workItem from="1567126988263" duration="7865000" />
+      <workItem from="1567609876337" duration="653000" />
+      <workItem from="1567610593908" duration="2045000" />
+      <workItem from="1567667992460" duration="2210000" />
+    </task>
+    <task id="LOCAL-00001" summary="创建项目">
+      <created>1567687454947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567687454947</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RabbitmqProducerApplicationTests_contextLoads - 2019.08.29 at 15h 16m 14s.xml">
+      <configuration name="RabbitmqProducerApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqProducerApplicationTests_contextLoads - 2019.08.29 at 15h 17m 00s.xml">
+      <configuration name="RabbitmqProducerApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqProducerApplicationTests - 2019.08.29 at 15h 22m 10s.xml">
+      <configuration name="RabbitmqProducerApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaProducerApplicationTests_kafkaSend - 2019.08.30 at 10h 46m 10s.xml">
+      <configuration name="KafkaProducerApplicationTests.kafkaSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaProducerApplicationTests_kafkaSend - 2019.08.30 at 10h 47m 14s.xml">
+      <configuration name="KafkaProducerApplicationTests.kafkaSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaProducerApplicationTests_kafkaSend - 2019.08.30 at 13h 20m 54s.xml">
+      <configuration name="KafkaProducerApplicationTests.kafkaSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaProducerApplicationTests_kafkaSend - 2019.08.30 at 13h 26m 29s.xml">
+      <configuration name="KafkaProducerApplicationTests.kafkaSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaProducerApplicationTests_kafkaSend - 2019.08.30 at 13h 54m 46s.xml">
+      <configuration name="KafkaProducerApplicationTests.kafkaSend" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="382320000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5112045" visible="true" weight="0.21481876" />
+      <window_info id="Structure" order="1" sideWeight="0.48879552" side_tool="true" weight="0.25328228" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="BPMN Editor" order="8" weight="0.25692964" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2513863" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38354897" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3336414" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32902032" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32809612" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.13449024" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.44731978" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32809612" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.3295711" />
+      <window_info anchor="bottom" id="MyBatis Log" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.20255864" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="BPMNPalette" order="10" weight="0.102878466" />
+      <window_info anchor="right" id="Maven" order="11" visible="true" weight="0.17530864" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建项目" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/elasticsearch/controller/ElasticsearchController.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/elasticsearch/controller/ElasticsearchController.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/elasticsearch/controller/ElasticsearchController.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sorl/service/impl/SolrServiceImpl.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sorl/controller/SolrController.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sorl/controller/SolrController.java</url>
+          <line>155</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sorl/controller/SolrController.java</url>
+          <line>255</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sorl/controller/SolrController.java</url>
+          <line>212</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sorl/controller/SolrController.java</url>
+          <line>196</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/elasticsearch/controller/EsController.java</url>
+          <line>237</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/elasticsearch/controller/EsController.java</url>
+          <line>159</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/redLock/service/RedisLocker.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/src/main/java/com/example/apispringboot/config/InterceptorConfig.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/src/main/java/com/example/apispringboot/config/Interceptor.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/src/main/java/com/example/apispringboot/controller/SpringBootController.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/src/main/java/com/example/apispringboot/config/testFilter.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sort/SortService.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sort/SortService.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sort/SortService.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/src/main/java/com/example/demo/sort/SortService.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-activiti/src/main/java/com/example/apiactiviti/service/impl/ActivityConsumerServiceImpl.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mybatis-plus/src/main/java/com/example/config/MybatisPlusConfig.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/src/main/java/com/example/apispringboot/controller/SpringBootController.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/src/main/java/com/example/consumer/OrderReceiver.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/task/TaskSchedulerConfig.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/producer/OrderSender.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.8.RELEASE/spring-rabbit-2.1.8.RELEASE.jar!/org/springframework/amqp/rabbit/connection/CorrelationData.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.4.3/amqp-client-5.4.3.jar!/com/rabbitmq/client/Channel.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/scheduling/support/DelegatingErrorHandlingRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/resources/mapper/BrokerMessageLogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="128" column="14" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.1.9.RELEASE/spring-messaging-5.1.9.RELEASE.jar!/org/springframework/messaging/handler/annotation/Payload.class" />
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/WebLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/RabbitmqProducerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/database/MetaObjectHandlerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/database/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/mapper/BrokerMessageLogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.8.RELEASE/spring-rabbit-2.1.8.RELEASE.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.class" />
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/producer/OrderSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/util/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/src/main/java/com/example/RabbitmqConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/utils/FastJsonConvertUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/task/RetryMessageTasker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/utils/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/producer/RabbitOrderSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/java/com/example/config/task/TaskSchedulerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/src/main/java/com/example/consumer/OrderReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin/src/main/java/com/example/apiadmin/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin/src/main/java/com/example/apiadmin/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin/src/main/resources/application-test1.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin/src/main/resources/application-test2.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/SpringbootKafkaApplication.java" />
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="116" column="20" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.2.8.RELEASE/spring-kafka-2.2.8.RELEASE.jar!/org/springframework/kafka/core/KafkaTemplate.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.2.8.RELEASE/spring-kafka-2.2.8.RELEASE.jar!/org/springframework/kafka/support/KafkaHeaders.class" />
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/A.java" />
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/KafkaProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/KafkaProducerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/src/main/java/com/example/kafka/KafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/src/main/java/com/example/kafka/KafkaConsunmerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="95">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/test/java/com/example/kafka/KafkaProducerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/src/main/java/com/example/kafka/KafkaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-config/src/main/java/com/example/cloudconfig/LiuyjyCloudConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29819563" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29819563" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29819563" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29819563" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>liuyjy-entity</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29819563" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29819563" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29819563" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

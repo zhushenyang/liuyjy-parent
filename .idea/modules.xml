@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/kafka-consunmer.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-consunmer/kafka-consunmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/kafka-producer.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/kafka-producer/kafka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-activiti/liuyjy-api-activiti.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-activiti/liuyjy-api-activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin/liuyjy-api-admin.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-admin/liuyjy-api-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/liuyjy-api-demo.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-demo/liuyjy-api-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-es/liuyjy-api-es.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-es/liuyjy-api-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-feign/liuyjy-api-feign.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-feign/liuyjy-api-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mongodb/liuyjy-api-mongodb.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mongodb/liuyjy-api-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/liuyjy-api-mq.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/liuyjy-api-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mybatis-plus/liuyjy-api-mybatis-plus.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mybatis-plus/liuyjy-api-mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-redisson/liuyjy-api-redisson.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-redisson/liuyjy-api-redisson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-ribbon/liuyjy-api-ribbon.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-ribbon/liuyjy-api-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-service/liuyjy-api-service.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-service/liuyjy-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/liuyjy-api-springboot.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-springboot/liuyjy-api-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-user/liuyjy-api-user.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-user/liuyjy-api-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud.iml" filepath="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-admin/liuyjy-cloud-admin.iml" filepath="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-admin/liuyjy-cloud-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-config/liuyjy-cloud-config.iml" filepath="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-config/liuyjy-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-eureka/liuyjy-cloud-eureka.iml" filepath="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-eureka/liuyjy-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-gateway/liuyjy-cloud-gateway.iml" filepath="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-gateway/liuyjy-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-turbine/liuyjy-cloud-turbine.iml" filepath="$PROJECT_DIR$/liuyjy-cloud/liuyjy-cloud-turbine/liuyjy-cloud-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-common/liuyjy-common.iml" filepath="$PROJECT_DIR$/liuyjy-common/liuyjy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-dubbo/liuyjy-dubbo.iml" filepath="$PROJECT_DIR$/liuyjy-dubbo/liuyjy-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-entity/liuyjy-entity.iml" filepath="$PROJECT_DIR$/liuyjy-entity/liuyjy-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-parent.iml" filepath="$PROJECT_DIR$/liuyjy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-web/liuyjy-web.iml" filepath="$PROJECT_DIR$/liuyjy-web/liuyjy-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/rabbitmq-consumer.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-consumer/rabbitmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/rabbitmq-producer.iml" filepath="$PROJECT_DIR$/liuyjy-api/liuyjy-api-mq/rabbitmq-producer/rabbitmq-producer.iml" />
+    </modules>
+  </component>
+</project>
