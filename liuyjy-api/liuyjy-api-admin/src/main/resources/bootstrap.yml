@@ -1,0 +1,20 @@
+# 和git里的文件名对应
+spring:
+  application:
+    name: admin-web
+  # 远程仓库的分支
+  cloud:
+    config:
+      label: master
+      # dev 开发环境配置文件 |  test 测试环境  |  pro 正式环境
+      # 和git里的文件名对应
+      profile: dev
+      # 指明配置服务中心的网址
+      uri: http://localhost:7010/
+        #discovery:
+        #true开启配置服务发现
+        #enabled: true
+      #service-id: config-server
+      #true配置客户端快速失败
+      fail-fast: true
+      enabled: true

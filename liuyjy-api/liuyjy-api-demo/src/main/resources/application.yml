@@ -1,0 +1,35 @@
+server:
+  port: 6325
+
+spring:
+  application:
+    name: test-serve
+  redis:
+    cluster:
+      nodes: 10.0.164.27:7001,10.0.164.27:7002,10.0.164.27:7003,10.0.164.27:7004,10.0.164.27:7005,10.0.164.23:7001,10.0.164.23:7002,10.0.164.23:7003,10.0.164.23:7004,10.0.164.23:7005
+  data:
+    solr:
+      host: http://localhost:8983/solr/
+      #elasticsearch:
+      #默认为elasticsearch
+      #cluster-name:
+      #配置es节点信息，逗号分隔，如果没有指定，则启动ClientNode（9200端口是http查询使用的。9300集群使用。这里使用9300.）
+      #cluster-nodes: 10.0.164.19:9300
+      #cluster-nodes: localhost:9300
+#集群模式
+redisson:
+  model: CLUSTER
+  #redis机器.一直累加下去
+  multiple-server-config:
+    node-addresses: 10.0.164.27:7001,10.0.164.27:7002,10.0.164.27:7003,10.0.164.27:7004,10.0.164.27:7005,10.0.164.23:7001,10.0.164.23:7002,10.0.164.23:7003,10.0.164.23:7004,10.0.164.23:7005
+
+elasticsearch:
+  ip: localhost
+  #ip:
+  port: 9300
+  pool: 50
+  #注意cluster.name需要与config/elasticsearch.yml中的cluster.name一致
+  cluster.name: my-application
+  #cluster-name: elasticsearch
+
+

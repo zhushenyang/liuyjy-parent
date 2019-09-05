@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://10.0.164.19:3306/hart-activiti?characterEncoding=utf8&useSSL=true
+    username: root
+    password: 0213abcd
+  activiti:
+    database-schema-update: true
+    check-process-definitions: true
+    process-definition-location-prefix: classpath:/processes/
+    #    process-definition-location-suffixes:
+    #      - **.bpmn
+    #      - **.bpmn20.xml
+    history-level: full
+  jpa:
+    properties:
+      hibernate:
+       hbm2ddl.auto: update
+    show-sql: true
+server:
+  port: 8081
+  tomcat:
+    uri-encoding: UTF-8

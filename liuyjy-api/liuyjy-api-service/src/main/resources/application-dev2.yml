@@ -1,0 +1,31 @@
+server:
+  port: 8763
+
+spring:
+  application:
+    name: service-hi
+  sleuth:
+    web:
+      client:
+        enabled: true
+    sampler:
+      probability: 1.0 # 将采样比例设置为 1.0，也就是全部都需要。默认是 0.1
+  zipkin:
+    base-url: http://10.0.164.19:9411 # 指定了 Zipkin 服务器的地址
+eureka:
+  instance:
+    health-check-url-path: /actuator/health   #应用实例的相对运行状况检查URL路径默认为 /info/health
+  client:
+    serviceUrl:
+      defaultZone: http://peer1:8001/eureka/,http://peer2:8002/eureka/,http://peer3:8003/eureka/  #注册中心地址
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"   #暴露所有的端点我们可以看到更多的服务实例相关信息，
+  endpoint:
+    health:
+      show-details: ALWAYS   #health endpoint是否必须显示全部细节
+
+

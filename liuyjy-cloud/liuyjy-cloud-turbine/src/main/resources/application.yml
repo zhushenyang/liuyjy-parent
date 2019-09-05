@@ -1,0 +1,23 @@
+
+spring:
+  application.name: service-turbine
+server:
+  port: 8769
+
+
+  ## 表示要聚合的名称 多个用逗号隔开
+  #turbine.app-config=ribbon-consumer
+  ## turbine（说明：注意必须为大写，因为 eureka 返回的值都是大写的）
+  #turbine.aggregator.clusterConfig=RIBBON-CONSUMER
+  ###监控多个集群环境
+turbine:
+  ## 表示要聚合的名称 多个用逗号隔开
+  app-config: ribbon-consumer,ribbon-consumer2
+  #aggregator:
+    #cluster-config: Turbine
+  cluster-name-expression: 'default'
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8001/eureka/,http://peer2:8002/eureka/,http://peer3:8003/eureka/

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.apiadmin.mapper.AdminMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.example.liuyjyentity.admin.AdminInfo">
+        <id column="admin_id" property="adminId"/>
+        <result column="admin_no" property="adminNo"/>
+        <result column="name" property="name"/>
+        <result column="nick_name" property="nickName"/>
+        <result column="sex" property="sex"/>
+        <result column="age" property="age"/>
+        <result column="mobile" property="mobile"/>
+        <result column="picurl" property="picurl"/>
+        <result column="token" property="token"/>
+        <result column="pwd" property="pwd"/>
+        <result column="last_login_time" property="lastLoginTime"/>
+        <result column="last_exit_time" property="lastExitTime"/>
+        <result column="admin_type" property="adminType"/>
+        <result column="admin_status" property="adminStatus"/>
+        <result column="intro" property="intro"/>
+        <result column="detail" property="detail"/>
+        <result column="create_date" property="createDate"/>
+        <result column="create_user_id" property="createUserId"/>
+        <result column="create_user_name" property="createUserName"/>
+        <result column="modify_date" property="modifyDate"/>
+        <result column="modify_user_id" property="modifyUserId"/>
+        <result column="modify_user_name" property="modifyUserName"/>
+        <result column="delete_date" property="deleteDate"/>
+        <result column="delete_user_id" property="deleteUserId"/>
+        <result column="delete_user_name" property="deleteUserName"/>
+        <result column="delete_flag" property="deleteFlag"/>
+        <result column="version" property="version"/>
+    </resultMap>
+
+    <!--通过账号密码登陆-->
+    <select id="login" parameterType="hashmap" resultType="com.example.liuyjyentity.admin.AdminInfo">
+        SELECT
+        `admin_id`,
+        `admin_no`,
+        `name`,
+        `nick_name`,
+        `sex`,
+        `age`,
+        `mobile`,
+        `picurl`,
+        `token`,
+        `pwd`,
+        `admin_type`,
+        `admin_status`,
+        `intro`,
+        `detail`
+        FROM admin_info
+        where admin_no=#{adminNo}
+        and pwd=#{pwd}
+        and admin_status=1
+        and delete_flag=0
+    </select>
+
+    <!--通过账号密码登陆-->
+    <select id="getAdminList" resultMap="BaseResultMap">
+        SELECT
+        `admin_id`,
+        `admin_no`,
+        `name`,
+        `nick_name`,
+        `sex`,
+        `age`,
+        `mobile`,
+        `picurl`,
+        `token`,
+        `pwd`,
+        `admin_type`,
+        `admin_status`,
+        `intro`,
+        `detail`
+        FROM admin_info
+        where delete_flag=0
+    </select>
+
+    <!--通过管理员token获取用户信息-->
+    <select id="getokenAdminInfo" parameterType="String" resultMap="BaseResultMap">
+        SELECT
+        admin_id,
+        admin_no,
+        name,
+        nick_name,
+        sex,
+        age,
+        mobile,
+        picurl,
+        token,
+        pwd,
+        admin_type,
+        admin_status,
+        intro,
+        detail
+        FROM admin_info
+        where token=#{token}
+        and admin_status=1
+        and delete_flag=0
+    </select>
+
+    <!--用户名是否存在-->
+    <select id="adminNoIsExist" resultType="java.lang.Integer" parameterType="String">
+        SELECT count(*) FROM admin_info
+        where admin_no=#{adminNo}
+        and delete_flag=0
+    </select>
+
+    <!--保存用户token-->
+    <update id="addAdmintoken" parameterType="hashmap">
+        UPDATE admin_info
+        set token=#{token},
+        last_login_time=NOW()
+        where admin_id=#{adminId}
+    </update>
+
+    <!--用户退出-->
+    <update id="exitAdmin" parameterType="String">
+        UPDATE admin_info
+        set token='',
+        last_exit_time=NOW()
+        where token=#{token}
+    </update>
+
+    <!--修改个人信息-->
+    <update id="updateAdminInfo" parameterType="com.example.liuyjyentity.admin.AdminInfo">
+        UPDATE admin_info
+        set
+        <if test="name != null and name != ''.toString()">
+            `name`=#{name},
+        </if>
+        <if test="nickName != null and nickName != ''.toString() ">
+            `nick_name`=#{nickName},
+        </if>
+        <if test="mobile != null and mobile != ''.toString() ">
+            `mobile`=#{mobile},
+        </if>
+        <if test="pwd != null and pwd != ''.toString() ">
+            `pwd`=#{pwd},
+        </if>
+        <if test="sex != null">
+            sex=#{sex},
+        </if>
+        <if test="age != null">
+            age=#{age},
+        </if>
+        <if test="picurl != null and picurl != ''.toString()">
+            picurl=#{picurl},
+        </if>
+        <if test="intro != null and intro != ''.toString()">
+            intro=#{intro},
+        </if>
+        <if test="detail != null and detail != ''.toString()">
+            detail=#{detail},
+        </if>
+        modify_date=NOW(),
+        modify_user_id=#{adminId},
+        modify_user_name=#{name}
+        where admin_id=#{adminId}
+    </update>
+
+
+</mapper>

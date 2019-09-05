@@ -1,0 +1,129 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: gateway-server
+  sleuth:
+    web:
+      client:
+        enabled: true
+    sampler:
+      probability: 1.0 # 将采样比例设置为 1.0，也就是全部都需要。默认是 0.1
+  zipkin:
+    base-url: http://10.0.164.19:9411 # 指定了 Zipkin 服务器的地址
+  redis:
+    cluster:
+      nodes: 10.0.164.27:7001,
+        10.0.164.27:7002,
+        10.0.164.27:7003,
+        10.0.164.27:7004,
+        10.0.164.27:7005,
+        10.0.164.23:7001,
+        10.0.164.23:7002,
+        10.0.164.23:7003,
+        10.0.164.23:7004,
+        10.0.164.23:7005
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: false
+          lowerCaseServiceId: true
+      routes:
+       # 一********************************
+        - id: admin-web
+          uri: lb://admin-web
+          predicates:
+          - Path=/hart/market/admin/**
+          filters:
+          - name: RequestRateLimiter
+          - name: Hystrix
+            args:
+              name: fallbackcmd
+              fallbackUri: forward:/fallback
+              redis-rate-limiter.replenishRate: 50  # 令牌桶的容积 允许用户每秒处理多少个请求
+              redis-rate-limiter.burstCapacity: 50  # 流速 每秒  令牌桶的容量，允许在一秒钟内完成的最大请求数
+              key-resolver: "#{@ipKeyResolver}" #SPEL表达式去的对应的bean 使用SpEL按名称引用bean
+          #- StripPrefix=1  #StripPrefix过滤器是去掉一个路径
+              # 一********************************
+        - id: sp-web
+          uri: lb://sp-web
+          predicates:
+          - Path=/hart/market/sp/**
+          filters:
+          - name: RequestRateLimiter
+          - name: Hystrix
+            args:
+              name: fallbackcmd
+              fallbackUri: forward:/fallback
+              redis-rate-limiter.replenishRate: 50  # 令牌桶的容积 允许用户每秒处理多少个请求
+              redis-rate-limiter.burstCapacity: 50 # 流速 每秒  令牌桶的容量，允许在一秒钟内完成的最大请求数
+              key-resolver: "#{@ipKeyResolver}" #SPEL表达式去的对应的bean 使用SpEL按名称引用bean
+          #- StripPrefix=1  #StripPrefix过滤器是去掉一个路径
+       #  二 **********************************
+        - id: service-feign
+          uri: lb://service-feign
+          predicates:
+          - Path=/feign/**
+          filters:
+          - name: RequestRateLimiter
+          - name: Hystrix
+            args:
+              name: fallbackcmd
+              fallbackUri: forward:/fallback
+              redis-rate-limiter.replenishRate: 1  # 令牌桶的容积 允许用户每秒处理多少个请求
+              redis-rate-limiter.burstCapacity: 3  # 流速 每秒  令牌桶的容量，允许在一秒钟内完成的最大请求数
+              key-resolver: "#{@ipKeyResolver}" #SPEL表达式去的对应的bean 使用SpEL按名称引用bean
+          - StripPrefix=1  #StripPrefix过滤器是去掉一个路径
+      #三****************************************************
+        - id: service-ribbon
+          uri: lb://service-ribbon
+          predicates:
+          - Path=/ribbon/**
+          filters:
+          - name: RequestRateLimiter
+          - name: Hystrix
+            args:
+              name: fallbackcmd
+              fallbackUri: forward:/fallback
+              redis-rate-limiter.replenishRate: 1  # 令牌桶的容积 允许用户每秒处理多少个请求
+              redis-rate-limiter.burstCapacity: 3  # 流速 每秒  令牌桶的容量，允许在一秒钟内完成的最大请求数
+              key-resolver: "#{@ipKeyResolver}" #SPEL表达式去的对应的bean 使用SpEL按名称引用bean
+          - StripPrefix=1  #StripPrefix过滤器是去掉一个路径
+      #四****************************************************
+        - id: service-hi
+          uri: lb://service-hi
+          predicates:
+          - Path=/service-hi/**
+          filters:
+          - name: RequestRateLimiter
+          - name: Hystrix
+            args:
+              name: fallbackcmd
+              fallbackUri: forward:/fallback
+              redis-rate-limiter.replenishRate: 1  # 令牌桶的容积 允许用户每秒处理多少个请求
+              redis-rate-limiter.burstCapacity: 3  # 流速 每秒  令牌桶的容量，允许在一秒钟内完成的最大请求数
+              key-resolver: "#{@ipKeyResolver}" #SPEL表达式去的对应的bean 使用SpEL按名称引用bean
+          - StripPrefix=1  #StripPrefix过滤器是去掉一个路径
+      #四****************************************************
+
+
+management: #链路追踪
+  endpoints:
+    web:
+      exposure:
+        include: "*"   #暴露所有的端点我们可以看到更多的服务实例相关信息，
+  endpoint:
+    health:
+      show-details: ALWAYS   #health endpoint是否必须显示全部细节
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8001/eureka/,http://peer2:8002/eureka/,http://peer3:8003/eureka/
+  instance:
+   metadata-map:
+     cluster: Turbine
+
+

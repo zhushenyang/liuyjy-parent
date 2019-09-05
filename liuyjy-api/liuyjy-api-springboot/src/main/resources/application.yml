@@ -1,0 +1,14 @@
+#\u65E5\u5FD7\u8F93\u51FA\u7EA7\u522B
+logging:
+  level:
+    root: info
+    org:
+      springframework: error
+      org:
+        mybatis: debug
+    com.edu: debug
+  pattern:
+    console: '%d{yyyy-MM-dd HH:mm:ss} %highlight(%-5level) [%boldYellow(%thread)] %boldGreen(%logger{40})  %magenta(%msg%n)'
+
+
+
